@@ -175,7 +175,7 @@ def get_plaintext_pairs(count, differential):
     return pt_pairs
 
 
-CLIENT_ID = "062c7fa0df0fa12c6370071efdc9fcd6.access"
+CLIENT_ID = "<client_id>.access"
 CLIENT_SECRET = "<client_secret_string"
 URL = "https://des-oracle.bombaykettle.org/<roll_number>/api/encrypt"
 

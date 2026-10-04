@@ -270,7 +270,7 @@ def check_queried(filename, key):
 
 
 def get_cipher_from_oracle(pt):
-    CLIENT_ID = "062c7fa0df0fa12c6370071efdc9fcd6.access"
+    CLIENT_ID = "<client_id>.access"
     CLIENT_SECRET = "<client_secret_string>"
     URL = "https://des-oracle.bombaykettle.org/cs25mtech11026/api/encrypt"
 
